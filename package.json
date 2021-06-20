@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "fund": "^1.0.0",
     "pg": "^8.6.0",
-    "slugify": "^1.5.3"
+    "slugify": "^1.5.3",
+    "supertest": "^6.1.3"
   }
 }
